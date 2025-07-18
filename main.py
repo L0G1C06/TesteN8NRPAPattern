@@ -1,0 +1,1 @@
+print("Hello from inside N8N container!")
